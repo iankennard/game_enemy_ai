@@ -1,0 +1,12 @@
+Esc: Exit program
+F1:  Help menu
+1:   Hide/unhide player from AI
+2:   Toggle player/AI view
+3:   Pause movement (look around unaffected)
+4:   Show detailed AI info
+W:   forward
+A:   back
+S:  left
+D:  right
+F:  fire ball
+M:  enlarge/reset map
